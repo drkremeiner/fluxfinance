@@ -124,6 +124,16 @@
     border-radius: 23.5px;
 }
 
+.desktop .div-wrapper:hover {
+    position: absolute;
+    width: 136px;
+    height: 47px;
+    top: 7px;
+    left: 452px;
+    background-color: black;
+    border-radius: 23.5px;
+}
+
 .desktop .text-wrapper-3 {
     position: absolute;
     top: 14px;
